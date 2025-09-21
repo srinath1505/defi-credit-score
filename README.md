@@ -123,22 +123,3 @@ Contributions are welcome! Please follow these steps:
 Project Maintainer - Srinath S - srinathselvakumar1505@gmail.com
 
 Project Link: [https://github.com/srinath1505/defi-credit-score](https://github.com/srinath1505/defi-credit-score)
-```
-
-To create this as a downloadable file:
-
-1. Copy all the text above
-2. Open a text editor (like Notepad, VS Code, Sublime Text, etc.)
-3. Paste the copied text
-4. Save the file as `README.md` (make sure the extension is `.md`, not `.txt`)
-5. The file is now ready to use in your GitHub repository
-
-Alternatively, you can create this file directly in your project directory using the command line:
-
-```bash
-# On Windows
-echo ^<paste the markdown content here^> > README.md
-
-# On Mac/Linux
-echo "<paste the markdown content here>" > README.md
-```
